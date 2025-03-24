@@ -6,11 +6,12 @@
    <UUID>5a7fe593-63d1-4a09-a01c-8f0ae49c495e</UUID>
    <createdEdition>FREE</createdEdition>
    <createdVersion>10.1.1</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.1.1</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\fauzi.galih\Katalon Studio\Karier Bisnis Indonesia\Karier Bisnis Indonesia.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
