@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Login</name>
+   <tag></tag>
+   <elementGuidId>43737c97-9fc6-4158-9342-dbbc7c7c30c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='offcanvasNavbar-expand-sm']/div[2]/form/a/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.align-items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37929282-3cd1-432e-90f4-3193b9df387e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center</value>
+      <webElementGuid>84800d97-20da-4f6e-90f2-8500ce9e9d16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>ebaef350-4b0e-4818-b62f-403ac794a24f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/nav[@class=&quot;navbar-theme navbar navbar-expand-sm navbar-light&quot;]/div[@class=&quot;container&quot;]/div[@id=&quot;offcanvasNavbar-expand-sm&quot;]/div[@class=&quot;offcanvas-body&quot;]/form[@class=&quot;d-flex justify-content-center&quot;]/a[@class=&quot;d-flex align-items-center text-navbar mt-60&quot;]/div[@class=&quot;mobile-dis-none&quot;]/div[@class=&quot;d-flex align-items-center&quot;]</value>
+      <webElementGuid>da039d63-b16a-4ac5-81c0-ae671e46d627</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='offcanvasNavbar-expand-sm']/div[2]/form/a/div/div</value>
+      <webElementGuid>d5809097-6861-44c2-b020-4cc408349ded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak Kami'])[1]/following::div[2]</value>
+      <webElementGuid>ce691d1c-6e01-4b00-b715-6e39327f6c1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::div[2]</value>
+      <webElementGuid>c0ac40f7-6e51-4674-97d1-91eddd49ae1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::div[1]</value>
+      <webElementGuid>48af767b-b05e-4c86-bbed-3e13cbb72e48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[2]/preceding::div[6]</value>
+      <webElementGuid>37fd6042-6199-4fe1-be77-0442278940ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
+      <webElementGuid>6acaf390-8db4-4651-92f1-410274f2c7f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/div</value>
+      <webElementGuid>9328f712-cc6a-4c09-891d-d6e160663b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Login' or . = 'Login')]</value>
+      <webElementGuid>4744a9cc-4171-4bcb-81ef-7cd18ab44365</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

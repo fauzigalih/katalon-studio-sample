@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_laki</name>
+   <tag></tag>
+   <elementGuidId>7e864052-bbac-4e4f-8440-6302d36ac50b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[(text() = 'Laki-Laki' or . = 'Laki-Laki')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-check.d-flex.align-items-center.me-5.undefined > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a59e8978-08c7-4619-bb31-11da96c199ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>jenis_kelamin1</value>
+      <webElementGuid>b50d5a28-32f1-45a3-8bc7-d6e3e7c659b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Laki-Laki</value>
+      <webElementGuid>6234dba6-6ef3-4520-984f-e0a0c4cff893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;form-section&quot;]/form[@class=&quot;form color-custom&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-12&quot;]/div[@class=&quot;form-group ps-30&quot;]/div[@class=&quot;input-group&quot;]/div[@class=&quot;form-check d-flex align-items-center me-5 undefined&quot;]/label[1]</value>
+      <webElementGuid>ca810966-0a68-4bca-bd05-a2319692b6a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[3]/form/div[2]/div[2]/div/div/div/label</value>
+      <webElementGuid>f4dfb852-81f8-4948-b2b0-bac9bc71e5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::label[1]</value>
+      <webElementGuid>3490da84-006b-48e7-963d-71b47bade094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perempuan'])[1]/preceding::label[1]</value>
+      <webElementGuid>f59dd053-a053-4501-affd-0a8999f126d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Laki-Laki']/parent::*</value>
+      <webElementGuid>cf4de49c-a4d6-471c-8bfc-ba2725da037c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/label</value>
+      <webElementGuid>0aaeeabf-3678-4327-a758-3c8e137bf9a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Laki-Laki' or . = 'Laki-Laki')]</value>
+      <webElementGuid>c7afc932-5228-493c-927b-fbc769b7b182</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

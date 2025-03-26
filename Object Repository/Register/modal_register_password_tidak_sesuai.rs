@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal_register_password_tidak_sesuai</name>
+   <tag></tag>
+   <elementGuidId>75e815d0-809a-4df4-8c6c-e6f25536fbaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id = 'swal2-title' and (text() = 'Sorry, Password tidak sesuai' or . = 'Sorry, Password tidak sesuai')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>0efbf7fd-0167-47f7-aa51-2e720bd66afb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>494f9a67-c73c-4677-aa40-b2c16260ce64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>50d5e4fd-0c24-43b9-b37b-537dea08e703</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sorry, Password tidak sesuai</value>
+      <webElementGuid>e1431734-1344-4e76-9d4d-7017cf8f97bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;swal2-container swal2-center swal2-backdrop-hide&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-hide&quot;]/h2[@id=&quot;swal2-title&quot;]</value>
+      <webElementGuid>6e43dd6a-223f-4f9b-a615-f43a333c00d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'swal2-title' and (text() = 'Sorry, Password tidak sesuai' or . = 'Sorry, Password tidak sesuai')]</value>
+      <webElementGuid>277cee9b-4dee-4fba-802f-ca0d90b4756a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

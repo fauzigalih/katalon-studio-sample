@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>show_password</name>
+   <tag></tag>
+   <elementGuidId>2926fd8b-7f47-4462-bbea-ef83ccae4959</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div[3]/div[3]/div[3]/form/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.btn-hidden</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>82513d81-4bcd-4757-9f9c-9bf4415b31dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-hidden</value>
+      <webElementGuid>97d1cb29-fcae-4956-b54c-5b1b4df5dc44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;login-register container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-md-5 col-sm-5 col-12&quot;]/form[@class=&quot;form-login&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;input-group&quot;]/span[@class=&quot;btn-hidden&quot;]</value>
+      <webElementGuid>eb1a972e-e66b-490b-a857-1d5ac62e36bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div[3]/div[3]/div[3]/form/div[2]/div/span</value>
+      <webElementGuid>402537aa-4e83-4150-9278-1d3c56377ece</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
+      <webElementGuid>576790be-67c3-4a9c-8585-477fb694566d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[1]</value>
+      <webElementGuid>60bfa2c9-a36f-4336-9824-adcf6992fd87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ingatkan saya'])[1]/preceding::span[1]</value>
+      <webElementGuid>a2312adc-42dc-433a-99bc-0676862b86c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Password?'])[1]/preceding::span[1]</value>
+      <webElementGuid>23ab0202-d2cb-49ef-9786-d7e2d77d9c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/span</value>
+      <webElementGuid>602ede7e-2c51-4108-86ba-ac7235ec6693</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

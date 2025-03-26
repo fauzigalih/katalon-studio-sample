@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>modal_register_success</name>
+   <name>modal_register</name>
    <tag></tag>
    <elementGuidId>9aa4421a-8340-418d-86c0-ff2c62fc97c5</elementGuidId>
    <selectorCollection>

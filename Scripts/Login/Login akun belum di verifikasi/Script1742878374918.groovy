@@ -17,4 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+CustomKeywords.'client.Auth.openBrowser'()
 
+WebUI.click(findTestObject('Object Repository/Login/link_login'))
+
+WebUI.setText(findTestObject('Object Repository/Login/input_email'), GlobalVariable.emailNotVerify)
+
+WebUI.click(findTestObject('Object Repository/Login/show_password'))
+
+WebUI.setText(findTestObject('Object Repository/Login/input_password'), GlobalVariable.password)
+
+WebUI.click(findTestObject('Object Repository/Login/btn_login'))
+
+WebUI.verifyElementText(findTestObject('Login/modal_login_akun_belum_aktif'), 'Sorry, Akun belum aktif, Mohon periksa email aktivasi Anda!')
+
+WebUI.closeBrowser()

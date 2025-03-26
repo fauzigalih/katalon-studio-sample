@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_personal_data</name>
+   <tag></tag>
+   <elementGuidId>fdb4e627-e99b-44fb-8aca-ba2ccf3e8187</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section[2]/div/div/div/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.m-0.text.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a49223df-1013-4247-92a6-4f98f12f43a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0 text active</value>
+      <webElementGuid>7c82676e-7826-4dd4-a279-23178f6630cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Personal Data</value>
+      <webElementGuid>482d6854-63a8-4b2e-9938-19b2395b29c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;progress-bar&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex-nowrap row&quot;]/div[@class=&quot;p-0 text-center width-custom col-auto&quot;]/div[@class=&quot;mobile-dis-none&quot;]/div[@class=&quot;description&quot;]/p[@class=&quot;m-0 text active&quot;]</value>
+      <webElementGuid>1a205907-3dd7-49ef-9471-f51d37dbc003</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[2]/div/div/div/div[2]/div/p</value>
+      <webElementGuid>328c8aaa-7dc3-4afd-9479-15fdd4c31de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profil'])[1]/following::p[1]</value>
+      <webElementGuid>ddbc4abb-5986-422a-8a61-ef4f130ebc31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil'])[1]/following::p[1]</value>
+      <webElementGuid>b7a74117-1c74-479a-a55d-5a23bfa21d75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::p[8]</value>
+      <webElementGuid>237830ad-4f86-4287-a849-60ced3b65fe5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Personal Data']/parent::*</value>
+      <webElementGuid>483ab01a-3dfc-48f8-9049-917ee0d25254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>1765781c-9f32-487b-9aa6-5cabe937b941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Personal Data' or . = 'Personal Data')]</value>
+      <webElementGuid>042037ac-5aa4-4843-bdc1-c1484cf9ad9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

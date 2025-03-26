@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal_login_akun_belum_aktif</name>
+   <tag></tag>
+   <elementGuidId>d5e11a38-0302-456d-9393-f692edfc9c05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id = 'swal2-title' and (text() = 'Sorry, Akun belum aktif, Mohon periksa email aktivasi Anda!' or . = 'Sorry, Akun belum aktif, Mohon periksa email aktivasi Anda!')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b086cd35-89c8-4089-816e-eb8d218b4adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>0311d750-ff40-4ac1-a5ee-d6dc87099fb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>638a53d6-4ee4-459e-8a2d-6ee51f9ec71d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sorry, Akun belum aktif, Mohon periksa email aktivasi Anda!</value>
+      <webElementGuid>6f4e8103-007a-4c1f-b82e-ff29aae4e464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;swal2-container swal2-center swal2-backdrop-hide&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-hide&quot;]/h2[@id=&quot;swal2-title&quot;]</value>
+      <webElementGuid>02f99471-100a-46ac-8dcb-4d8f568dc909</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'swal2-title' and (text() = 'Sorry, Akun belum aktif, Mohon periksa email aktivasi Anda!' or . = 'Sorry, Akun belum aktif, Mohon periksa email aktivasi Anda!')]</value>
+      <webElementGuid>b152f730-4296-4669-9bfb-0817baf593cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

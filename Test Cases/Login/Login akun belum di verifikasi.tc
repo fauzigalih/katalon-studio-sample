@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login akun belum di verifikasi</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08912002-b27a-497d-81e3-2a7ab4034cdc</testCaseGuid>
+</TestCaseEntity>

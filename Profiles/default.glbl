@@ -16,7 +16,7 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'testingdesktop3+103@gmail.com'</initValue>
+      <initValue>'testingdesktop3+100@gmail.com'</initValue>
       <name>email</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
@@ -38,5 +38,40 @@
       <description></description>
       <initValue>5</initValue>
       <name>delayLong</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'testingdesktop3+101@gmail.com'</initValue>
+      <name>emailNotVerify</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Jl. KH Mas Mansyur No. 12A Jakarta Pusat, 10220'</initValue>
+      <name>alamat_domisili</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Jl. Serang KM 20, Serang, Banten'</initValue>
+      <name>alamat_ktp</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Jakarta'</initValue>
+      <name>tempat_lahir</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'testingdesktop3+'</initValue>
+      <name>mailSuffix</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'gmail.com'</initValue>
+      <name>mailPrefix</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1234567812345678'</initValue>
+      <name>no_ktp</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

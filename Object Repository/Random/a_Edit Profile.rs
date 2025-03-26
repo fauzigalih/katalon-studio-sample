@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Edit Profile</name>
+   <tag></tag>
+   <elementGuidId>ce91acbd-05cb-435c-886f-691803656712</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='offcanvasNavbar-expand-sm']/div[2]/form/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.p-0.dropdown-item</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>db1ce12a-c568-4019-8781-2370424ae591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-0 dropdown-item</value>
+      <webElementGuid>a6dfb3fb-d3ad-4108-9bb5-0d383c2d487d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d9da7e61-542a-4b6e-948b-0cdb45ba6b0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>553d81e5-d11f-42f7-90cb-99ea1a9ace73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>a4d2b134-8f3c-4494-a770-6ee0a3ee3c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Profile</value>
+      <webElementGuid>75b3e909-4d64-4abe-8533-65398ce3c4a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/nav[@class=&quot;navbar-theme navbar navbar-expand-sm navbar-light&quot;]/div[@class=&quot;container&quot;]/div[@id=&quot;offcanvasNavbar-expand-sm&quot;]/div[@class=&quot;offcanvas-body&quot;]/form[@class=&quot;d-flex justify-content-center&quot;]/div[@class=&quot;mobile-dis-none&quot;]/div[@class=&quot;show dropdown&quot;]/div[@class=&quot;text-dropdown dropdown-menu show&quot;]/a[@class=&quot;p-0 dropdown-item&quot;]</value>
+      <webElementGuid>90de30fc-dfdf-40c2-890d-df96a4018cf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='offcanvasNavbar-expand-sm']/div[2]/form/div/div/div/a</value>
+      <webElementGuid>67a4b813-cef6-4eb4-8f11-f669fb49bb0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Edit Profile')]</value>
+      <webElementGuid>9e650334-b1af-492a-b609-f0e5d38e01f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Desktop 3'])[2]/following::a[1]</value>
+      <webElementGuid>cde3f423-039b-44b3-9395-beadb0a76831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak Kami'])[1]/following::a[1]</value>
+      <webElementGuid>fca30ffc-b1eb-4950-be86-df8837e568ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::a[2]</value>
+      <webElementGuid>66d538a2-8d59-43b7-b9b2-18a9249d9562</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/preceding::a[2]</value>
+      <webElementGuid>5cba6908-9a28-498c-b632-90cb581ba84e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Profile']/parent::*</value>
+      <webElementGuid>90c7bc64-3ab9-41f3-bdda-0b9758a86d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>2870d603-9531-4ec0-8807-b861f720bde2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/a</value>
+      <webElementGuid>af45abfa-d19d-4b1b-8f5c-8c8820552c5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Edit Profile' or . = 'Edit Profile')]</value>
+      <webElementGuid>c7cb3bf6-0362-4454-9de4-cfae2389b406</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
