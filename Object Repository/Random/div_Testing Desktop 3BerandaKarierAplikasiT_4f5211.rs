@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Testing Desktop 3BerandaKarierAplikasiT_4f5211</name>
+   <tag></tag>
+   <elementGuidId>1874bdd9-9453-44ec-9f77-1801326bd8e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__next</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>80f6ec65-e92a-435c-a086-18262665dc43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__next</value>
+      <webElementGuid>b2958c02-b057-4e44-9c71-1b426f511b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Testing Desktop 3BerandaKarierAplikasiTentang KamiAktivitasBlogKontak KamiTesting Desktop 3KeluarProfilEdit ProfilPersonal DataKeluargaPendidikanRiwayat PekerjaanKeterangan LainUpload DokumenTunjangan &amp; FasilitasPendidikanPendidikan FormalPendidikanNama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKSMA *D3 S1 *S2 Pendidikan SMA *Nama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKPendidikan D3 Nama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKPendidikan S1 *Nama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKPendidikan S2 Nama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKPendidikan Non-FormalPelatihanNama InstitusiTahun MulaiTahun SelesaiSertifikat--Pilih--YaTidakPelatihanNama InstitusiTahun MulaiTahun SelesaiSertifikat--Pilih--YaTidakTambah PelatihanOrganisasi / Aktivitas Sosial / Kegiatan LainJenis KegiatanOrganisasi / LembagaPeriodeJabatanKeterangan LainJenis KegiatanOrganisasi / LembagaPeriodeJabatanKeterangan LainTambah KegiatanKegiatan pada waktu luang / hobi *SebelumnyaSelanjutnyaIkuti KamiNavigasiBerandaKarierAplikasiTentang KamiAktivitasBlogKontak KamiKontakWisma Bisnis Indonesia Jl. KH Mas Mansyur No. 12A Jakarta Pusat, 10220+62 21 5790 1023 atau +628 58 8565 6695recruitment@bisnis.combisnisindonesiagroup.comIkuti KamiCopyright © 2025 - BIGKarier</value>
+      <webElementGuid>670a61d0-b780-4a70-a614-71ad7611ec04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)</value>
+      <webElementGuid>01406b3a-67d7-4fd6-8126-428be7658923</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='__next']</value>
+      <webElementGuid>3d56a044-658d-4615-ae5d-3c171f928414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>7d877df3-4682-401d-a3a7-23a748dd6a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = '__next' and (text() = 'Testing Desktop 3BerandaKarierAplikasiTentang KamiAktivitasBlogKontak KamiTesting Desktop 3KeluarProfilEdit ProfilPersonal DataKeluargaPendidikanRiwayat PekerjaanKeterangan LainUpload DokumenTunjangan &amp; FasilitasPendidikanPendidikan FormalPendidikanNama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKSMA *D3 S1 *S2 Pendidikan SMA *Nama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKPendidikan D3 Nama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKPendidikan S1 *Nama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKPendidikan S2 Nama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKPendidikan Non-FormalPelatihanNama InstitusiTahun MulaiTahun SelesaiSertifikat--Pilih--YaTidakPelatihanNama InstitusiTahun MulaiTahun SelesaiSertifikat--Pilih--YaTidakTambah PelatihanOrganisasi / Aktivitas Sosial / Kegiatan LainJenis KegiatanOrganisasi / LembagaPeriodeJabatanKeterangan LainJenis KegiatanOrganisasi / LembagaPeriodeJabatanKeterangan LainTambah KegiatanKegiatan pada waktu luang / hobi *SebelumnyaSelanjutnyaIkuti KamiNavigasiBerandaKarierAplikasiTentang KamiAktivitasBlogKontak KamiKontakWisma Bisnis Indonesia Jl. KH Mas Mansyur No. 12A Jakarta Pusat, 10220+62 21 5790 1023 atau +628 58 8565 6695recruitment@bisnis.combisnisindonesiagroup.comIkuti KamiCopyright © 2025 - BIGKarier' or . = 'Testing Desktop 3BerandaKarierAplikasiTentang KamiAktivitasBlogKontak KamiTesting Desktop 3KeluarProfilEdit ProfilPersonal DataKeluargaPendidikanRiwayat PekerjaanKeterangan LainUpload DokumenTunjangan &amp; FasilitasPendidikanPendidikan FormalPendidikanNama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKSMA *D3 S1 *S2 Pendidikan SMA *Nama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKPendidikan D3 Nama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKPendidikan S1 *Nama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKPendidikan S2 Nama Sekolah / UniversitasTahun MulaiTahun SelesaiJurusanIPKPendidikan Non-FormalPelatihanNama InstitusiTahun MulaiTahun SelesaiSertifikat--Pilih--YaTidakPelatihanNama InstitusiTahun MulaiTahun SelesaiSertifikat--Pilih--YaTidakTambah PelatihanOrganisasi / Aktivitas Sosial / Kegiatan LainJenis KegiatanOrganisasi / LembagaPeriodeJabatanKeterangan LainJenis KegiatanOrganisasi / LembagaPeriodeJabatanKeterangan LainTambah KegiatanKegiatan pada waktu luang / hobi *SebelumnyaSelanjutnyaIkuti KamiNavigasiBerandaKarierAplikasiTentang KamiAktivitasBlogKontak KamiKontakWisma Bisnis Indonesia Jl. KH Mas Mansyur No. 12A Jakarta Pusat, 10220+62 21 5790 1023 atau +628 58 8565 6695recruitment@bisnis.combisnisindonesiagroup.comIkuti KamiCopyright © 2025 - BIGKarier')]</value>
+      <webElementGuid>6efd74f7-4234-476c-930f-00e6995a7908</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -3,11 +3,11 @@
    <description></description>
    <name>button_Testing Desktop 3</name>
    <tag></tag>
-   <elementGuidId>d5af49d2-cfc6-4e9d-af60-8202ad32d962</elementGuidId>
+   <elementGuidId>4e78e417-f7b5-4252-b32e-d09962b2c21c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='react-aria5754553280-:r2:']</value>
+         <value>//button[@id='react-aria1156653886-:r2:']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>730a605d-dbc6-4de0-bdb9-e732602c1937</webElementGuid>
+      <webElementGuid>ce35f6a8-b826-49c6-b95e-4e7f8b1847f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,15 +31,15 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ac57aea3-47ad-4041-a397-966c1941c6fd</webElementGuid>
+      <webElementGuid>3ff005a7-aec5-4694-ab64-2b2577f01533</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>react-aria5754553280-:r2:</value>
-      <webElementGuid>e485140e-d270-4a3e-bfc1-0e02dbdaccd3</webElementGuid>
+      <value>react-aria1156653886-:r2:</value>
+      <webElementGuid>b44cb0e1-a94f-4432-a820-02cefbe4cf15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>c685bd37-1419-4997-b4d2-54fb0f2bf822</webElementGuid>
+      <webElementGuid>5038ae5a-7a46-4292-b6e2-ff5328629e97</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>class</name>
       <type>Main</type>
       <value>text-navbar dropdown-toggle btn btn-primary</value>
-      <webElementGuid>7c92ecbb-325e-4dd8-9c12-1f187ac36be6</webElementGuid>
+      <webElementGuid>86b37f80-2352-4929-a6e8-9e7875a8ffa6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,23 +63,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Testing Desktop 3</value>
-      <webElementGuid>09f430a2-c985-4d0c-97b0-389b765cdb5f</webElementGuid>
+      <webElementGuid>1f4182cb-348f-46a4-9000-e91dc26a5a9b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;react-aria5754553280-:r2:&quot;)</value>
-      <webElementGuid>80e399dd-4d11-419b-baff-0d7325e42e84</webElementGuid>
+      <value>id(&quot;react-aria1156653886-:r2:&quot;)</value>
+      <webElementGuid>02e9c399-5c8c-46e8-bcb9-db25d39d7613</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//button[@id='react-aria5754553280-:r2:']</value>
-      <webElementGuid>24a7b75d-d656-4b5f-9ad7-7ef92df63658</webElementGuid>
+      <value>//button[@id='react-aria1156653886-:r2:']</value>
+      <webElementGuid>6adc3d6d-b413-4ba5-bc77-661096e98a1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='offcanvasNavbar-expand-sm']/div[2]/form/div/div/button</value>
-      <webElementGuid>78a639b2-9bba-4b1c-8983-d64e928f6640</webElementGuid>
+      <webElementGuid>20f8b02a-bc62-40e9-8aa8-3d21fcc76125</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontak Kami'])[1]/following::button[1]</value>
-      <webElementGuid>792c64ab-cfaf-4934-8113-016940c5cb82</webElementGuid>
+      <webElementGuid>ec8eb941-8f6d-41ef-97fc-42462afbcf3a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::button[1]</value>
-      <webElementGuid>d93411eb-5a07-4bdf-b05f-9db3d730bdcd</webElementGuid>
+      <webElementGuid>28d9c883-c145-4e74-8e48-396dbe3094e1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Keluar'])[1]/preceding::button[1]</value>
-      <webElementGuid>f7a5079f-265c-4951-949b-b2a038c4ebb0</webElementGuid>
+      <webElementGuid>e66deb28-ea73-4424-b723-e28dea321470</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Desktop 3'])[3]/preceding::button[3]</value>
-      <webElementGuid>506a6d06-2161-42f2-8c28-7685ead1d45b</webElementGuid>
+      <webElementGuid>614642cb-6132-4e23-b944-669727f81f05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,14 +127,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/button</value>
-      <webElementGuid>88ee8668-33c5-4c01-9e88-fca7523d448a</webElementGuid>
+      <webElementGuid>f30abbe5-0e67-4f35-b9fe-7ad56686ab50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and @id = 'react-aria5754553280-:r2:' and (text() = 'Testing Desktop 3' or . = 'Testing Desktop 3')]</value>
-      <webElementGuid>4f21dd3d-0494-4896-8a57-ae4bcc8730ec</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'react-aria1156653886-:r2:' and (text() = 'Testing Desktop 3' or . = 'Testing Desktop 3')]</value>
+      <webElementGuid>14b8706c-bcbd-4d54-b6da-4e1c43c49a6a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Email_form-control form-control_1_2_3_4_5_6</name>
    <tag></tag>
-   <elementGuidId>448ff97e-dcdc-4e00-827b-85840e6f6d6c</elementGuidId>
+   <elementGuidId>1625bac3-b8a8-405e-94dd-0c0838289f0b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b65b8b55-8c7e-4117-8b10-d5136dd35d2f</webElementGuid>
+      <webElementGuid>970259eb-9230-4668-96b8-953af645672d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>mail@gmail.com</value>
-      <webElementGuid>60fe6268-809f-4cf7-a402-df6fccd8d54c</webElementGuid>
+      <webElementGuid>d36766b3-ada1-4999-b685-765b2a5e44b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>type</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>a2f61ad5-a95b-4ee9-a646-f6a20fd9d961</webElementGuid>
+      <webElementGuid>80b02905-a634-4460-a5e9-32bc4191d844</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control form-control</value>
-      <webElementGuid>b891ca68-b002-4a81-8ccb-78b8aed4f84f</webElementGuid>
+      <webElementGuid>557d1865-5aaf-4bc1-9e90-e094a3145058</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>value</name>
       <type>Main</type>
       <value>testing</value>
-      <webElementGuid>8375f7bc-e867-40d6-82f1-ef87ab149715</webElementGuid>
+      <webElementGuid>b83bd010-59c3-43c5-b68f-7f39235e20dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__next&quot;)/div[@class=&quot;login-register container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-5 col-md-5 col-sm-5 col-12&quot;]/form[@class=&quot;form-login&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control form-control&quot;]</value>
-      <webElementGuid>8f13f4a4-31d0-4d7e-9bc2-2a3e02e92d4d</webElementGuid>
+      <webElementGuid>c65a8093-cb23-4e0f-82c9-8ac4f97e7166</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='testing']</value>
-      <webElementGuid>12df7a98-1284-422a-8f44-62dfdf894284</webElementGuid>
+      <webElementGuid>e7f03c0a-5a5f-4903-8802-1183b57e9665</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__next']/div[3]/div[3]/div[3]/form/div/input</value>
-      <webElementGuid>2ed1ddcc-1ee7-46c6-bd03-cc8767ed9f2a</webElementGuid>
+      <webElementGuid>93c3754b-1718-48b8-9e6e-58e65b090782</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>36317aa3-9a4c-41a9-ae7f-996454541a0c</webElementGuid>
+      <webElementGuid>df9fc494-7ca7-4532-88ef-3a48ee154619</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,6 +95,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@placeholder = 'mail@gmail.com' and @type = 'email']</value>
-      <webElementGuid>9cf7d210-d529-4e7f-a916-17d0dd656ab9</webElementGuid>
+      <webElementGuid>5b207c4c-8f8e-473c-9f0e-6fe3003a2e2e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_ayah</name>
+   <tag></tag>
+   <elementGuidId>527edffc-37fe-448b-96f0-d516ab975a7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[(text() = 'Ayah*' or . = 'Ayah*')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.thead-desc.py-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>d8918893-7afa-4eb7-92b7-52ff75f140a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>thead-desc py-4</value>
+      <webElementGuid>eaf8ce0a-7621-4a06-b576-b18928f27db8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ayah*</value>
+      <webElementGuid>f8eb662e-a22b-447b-b166-9198841d68a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;form-section2&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;mobile-dis-none&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;undefined&quot;]/td[@class=&quot;thead-desc py-4&quot;]</value>
+      <webElementGuid>1d50be2e-6ffb-4c90-a1b0-a7238e32950a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[3]/form/div/table/tbody/tr/td</value>
+      <webElementGuid>788d9564-23a1-4f27-bbaf-991c5d16da0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pekerjaan'])[1]/following::td[1]</value>
+      <webElementGuid>20070466-0bd0-4b58-bc0c-b9122bf89a1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendidikan'])[2]/following::td[1]</value>
+      <webElementGuid>9eecd7bb-8ec9-49f8-b358-c2837757fdc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ayah']/parent::*</value>
+      <webElementGuid>dbb12a73-d796-4188-b7bf-f4d0f1ee97e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>9f13899e-0bca-4175-971e-8a317cc129d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Ayah*' or . = 'Ayah*')]</value>
+      <webElementGuid>ed56cf25-8544-4bd7-9354-b7cad4690ed0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

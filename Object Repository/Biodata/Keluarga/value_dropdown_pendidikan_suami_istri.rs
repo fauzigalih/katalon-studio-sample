@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>value_dropdown_pendidikan_suami_istri</name>
+   <tag></tag>
+   <elementGuidId>ae00ad19-483d-43a6-8ff4-f20755d80a08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr.null > td.py-3 > #pendidikan0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//select[@id='pendidikan0'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>cab68299-1935-49a0-a570-9c80678152fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-select</value>
+      <webElementGuid>f195a29b-7b78-4244-9d27-df8f4a57d9c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pendidikan0</value>
+      <webElementGuid>960853d6-5047-471a-a2c9-5602e8c0c28e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih...Tidak / Belum SekolahSDSMPSMAD1D2D3D4S1S2S3</value>
+      <webElementGuid>d70d0c54-8ab3-40a5-9b7d-133eb2f02e87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;form-section2&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;mobile-dis-none&quot;]/table[@class=&quot;table&quot;]/tbody[1]/tr[@class=&quot;null&quot;]/td[@class=&quot;py-3&quot;]/select[@id=&quot;pendidikan0&quot;]</value>
+      <webElementGuid>56ae1945-4f3f-4a01-8e7e-bc5e67b98a65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//select[@id='pendidikan0'])[3]</value>
+      <webElementGuid>7035d3f1-9048-4020-877d-44cccf3ab5d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[3]/form/div[4]/table/tbody/tr/td[5]/select</value>
+      <webElementGuid>d1fc9ded-437b-4d93-8793-24433f95d9ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Suami / Istri'])[1]/following::select[2]</value>
+      <webElementGuid>8141566c-4ac1-45a4-ac55-1afe32f8a02f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Telepon'])[1]/following::select[2]</value>
+      <webElementGuid>c3bf2d2a-9fed-4fd4-a536-4356dcfca758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anak Ke- 1'])[1]/preceding::select[1]</value>
+      <webElementGuid>7b34d79d-2de2-4df2-adcd-15401324934a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anak Ke- 2'])[1]/preceding::select[3]</value>
+      <webElementGuid>be10b0dc-b58e-45e4-8c9c-cf550f8e7862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/table/tbody/tr/td[5]/select</value>
+      <webElementGuid>46a6804f-9bfc-43c4-9d45-afe317d08dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'pendidikan0' and (text() = 'Pilih...Tidak / Belum SekolahSDSMPSMAD1D2D3D4S1S2S3' or . = 'Pilih...Tidak / Belum SekolahSDSMPSMAD1D2D3D4S1S2S3')]</value>
+      <webElementGuid>cf2c2bef-67ad-4d5e-8bd5-70960e30b50b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

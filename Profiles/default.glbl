@@ -74,4 +74,24 @@
       <initValue>'1234567812345678'</initValue>
       <name>no_ktp</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Samsudin'</initValue>
+      <name>ayah</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Nurhayati'</initValue>
+      <name>ibu</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Raka'</initValue>
+      <name>anak1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Putri'</initValue>
+      <name>anak2</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
