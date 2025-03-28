@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_pendidikan</name>
+   <tag></tag>
+   <elementGuidId>4983df27-fa25-4f9d-b65e-8209955b696b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section[2]/div/div/div[3]/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6b14073e-837c-45cf-a877-ac7c5050363a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0 text active</value>
+      <webElementGuid>90ce659b-c578-4de8-b233-9dcf382ad9dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pendidikan</value>
+      <webElementGuid>4b4d7176-f349-44e3-8977-093423d3bf9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;progress-bar&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex-nowrap row&quot;]/div[@class=&quot;p-0 text-center width-custom col-auto&quot;]/div[@class=&quot;mobile-dis-none&quot;]/div[@class=&quot;description&quot;]/p[@class=&quot;m-0 text active&quot;]</value>
+      <webElementGuid>4731ddea-d800-4d56-a6d3-135cfad9066c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[2]/div/div/div[3]/div[2]/div/p</value>
+      <webElementGuid>058acc94-469d-43b4-8adf-5e7de245e638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profil'])[1]/following::p[3]</value>
+      <webElementGuid>f992e991-83f0-4c1f-970d-291b382441ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil'])[1]/following::p[3]</value>
+      <webElementGuid>85e10961-abb5-4e5f-bf59-42a0bde3b51e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendidikan'])[3]/preceding::p[7]</value>
+      <webElementGuid>956116d8-59bf-4ee3-ac8a-3a657dadc46d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Sekolah / Universitas'])[1]/preceding::p[7]</value>
+      <webElementGuid>7585fd97-705a-49c5-9a72-ba0735c83617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pendidikan']/parent::*</value>
+      <webElementGuid>7a6b4d5c-15e9-4692-a2b6-273ccc052cbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/p</value>
+      <webElementGuid>901251d2-2ada-4dfa-a615-77fb16926838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Pendidikan' or . = 'Pendidikan')]</value>
+      <webElementGuid>2f22aec3-f47c-421b-855f-8cd6c657603b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

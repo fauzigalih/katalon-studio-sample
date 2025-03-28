@@ -146,9 +146,77 @@ WebUI.setText(findTestObject('Object Repository/Biodata/Keluarga/input_telepon_d
 WebUI.click(findTestObject('Object Repository/Biodata/Keluarga/btn_save_keluarga'))
 */
 
-WebUI.
+WebUI.scrollToElement(findTestObject('Object Repository/Biodata/PersonalData/dropdown_ktp'), GlobalVariable.delay)
+WebUI.scrollToElement(findTestObject('Object Repository/Biodata/PersonalData/input_nomor_telepon'), GlobalVariable.delay)
 WebUI.click(findTestObject('Object Repository/Biodata/PersonalData/btn_save_personal_data'))
+WebUI.scrollToElement(findTestObject('Object Repository/Biodata/Keluarga/label_keluarga'), GlobalVariable.delay)
+WebUI.scrollToElement(findTestObject('Object Repository/Biodata/Keluarga/btn_tambah_anak'), GlobalVariable.delay)
+WebUI.scrollToElement(findTestObject('Object Repository/Biodata/Keluarga/input_telepon_suami_istri'), GlobalVariable.delay)
+WebUI.click(findTestObject('Object Repository/Biodata/Keluarga/btn_save_keluarga'))
 
+// Pendidikan
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_nama_sekolah_sma'), 'SMA Negeri 58 Jakarta')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_tahun_mulai_sma'), '2015')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_tahun_selesai_sma'), '2018')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_jurusan_sma'), 'IPA')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_ipk_sma'), '8.5')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_nama_sekolah_d3'), 'Universitas Serang Raya')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_tahun_mulai_d3'), '2018')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_tahun_selesai_d3'), '2023')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_jurusan_d3'), 'Teknik Informatika')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_ipk_d3'), '3.7')
+
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_nama_sekolah_s1'), 'Universitas Serang Raya')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_tahun_mulai_s1'), '2023')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_tahun_selesai_s1'), '2024')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_jurusan_s1'), 'Teknik Informatika')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_ipk_s1'), '3.9')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_nama_sekolah_s2'), 'Universitas Gajah Mada')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_tahun_mulai_s2'), '2024')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_tahun_selesai_s2'), '2026')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_jurusan_s2'), 'Teknik Informatika')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_ipk_s2'), '3.6')
+
+WebUI.scrollToElement(findTestObject('Object Repository/Biodata/Pendidikan/input_ipk_s2'), GlobalVariable.delay)
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_pelatihan1'), 'QA Automation')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_pelatihan_institusi1'), 'Kemkominfo')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_pelatihan_tahun_mulai1'), '2023')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_pelatihan_tahun_selesai1'), '2023')
+WebUI.selectOptionByValue(findTestObject('Object Repository/Biodata/Pendidikan/value_dropdown_pelatihan_sertifikat1'), 'Y', true)
+
+WebUI.click(findTestObject('Object Repository/Biodata/Pendidikan/btn_tambah_pelatihan'))
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_pelatihan2'), 'Database Engineer')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_pelatihan_institusi2'), 'Kemkominfo')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_pelatihan_tahun_mulai2'), '2024')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_pelatihan_tahun_selesai2'), '2024')
+WebUI.selectOptionByValue(findTestObject('Object Repository/Biodata/Pendidikan/value_dropdown_pelatihan_sertifikat2'), 'T', true)
+
+WebUI.click(findTestObject('Object Repository/Biodata/Pendidikan/btn_tambah_pelatihan'))
+WebUI.click(findTestObject('Object Repository/Biodata/Pendidikan/btn_hapus_pelatihan'))
+WebUI.acceptAlert()
+
+WebUI.scrollToElement(findTestObject('Object Repository/Biodata/Pendidikan/btn_tambah_pelatihan'), GlobalVariable.delay)
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_kegiatan1'), 'Kegiatan Amal')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_kegiatan_organisasi1'), 'Amal Soleh')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_kegiatan_periode1'), '2024')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_kegiatan_jabatan1'), 'Anggota')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_kegiatan_keterangan1'), 'Santunan Anak Yatim Piatu')
+
+WebUI.click(findTestObject('Object Repository/Biodata/Pendidikan/btn_tambah_kegiatan'))
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_kegiatan2'), 'Kegiatan Sosial')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_kegiatan_organisasi2'), 'Sosial Experiment')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_kegiatan_periode2'), '2024')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_kegiatan_jabatan2'), 'Anggota')
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_kegiatan_keterangan2'), 'Prank')
+
+WebUI.click(findTestObject('Object Repository/Biodata/Pendidikan/btn_tambah_kegiatan'))
+WebUI.click(findTestObject('Object Repository/Biodata/Pendidikan/btn_hapus_kegiatan'))
+WebUI.acceptAlert()
+
+WebUI.setText(findTestObject('Object Repository/Biodata/Pendidikan/input_hobi'), 'Belajar hal baru, membaca berita, dan membaca pikiran.')
+WebUI.click(findTestObject('Object Repository/Biodata/Pendidikan/btn_selanjutnya_pendidikan'))
+WebUI.click(findTestObject('Object Repository/Biodata/Pendidikan/btn_sebelumnya_pendidikan'))
+WebUI.click(findTestObject('Object Repository/Biodata/Pendidikan/btn_selanjutnya_pendidikan'))
 
 
 
