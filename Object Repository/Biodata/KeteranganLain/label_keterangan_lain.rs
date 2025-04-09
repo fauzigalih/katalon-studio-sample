@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_keterangan_lain</name>
+   <tag></tag>
+   <elementGuidId>259dadb7-ad2a-4fe5-a0d7-bdb290bcbcc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section[2]/div/div/div[5]/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>49883eae-3557-43f0-b6a3-4069fb255ae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0 text active</value>
+      <webElementGuid>c2be735f-63f9-4ad3-b59c-80738f5da574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Keterangan Lain</value>
+      <webElementGuid>de585c5f-c9e7-4d0f-8687-f8e9939a81ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;progress-bar&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex-nowrap row&quot;]/div[@class=&quot;p-0 text-center width-custom col-auto&quot;]/div[@class=&quot;mobile-dis-none&quot;]/div[@class=&quot;description&quot;]/p[@class=&quot;m-0 text active&quot;]</value>
+      <webElementGuid>04d1d9b9-dfce-4ed2-961c-4b4ce0b3865b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[2]/div/div/div[5]/div[2]/div/p</value>
+      <webElementGuid>cc806465-3bce-493b-b98c-ed7d461dd0f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profil'])[1]/following::p[5]</value>
+      <webElementGuid>e6ca89cc-794c-4bee-ac0d-aba097f948a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil'])[1]/following::p[5]</value>
+      <webElementGuid>f036a3d5-9d85-4787-b64a-e9ea01159f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ya'])[1]/preceding::p[7]</value>
+      <webElementGuid>1698da3e-50fa-4a83-a4fd-4cb9c7cdc427</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak'])[1]/preceding::p[7]</value>
+      <webElementGuid>a89573fe-dcfa-4db8-add1-0441e4683e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Keterangan Lain']/parent::*</value>
+      <webElementGuid>93c2f929-4be5-4594-88d0-2ab39d06ca49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/div/p</value>
+      <webElementGuid>92ca00b4-b900-4dfd-a08e-48005ca3f323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Keterangan Lain' or . = 'Keterangan Lain')]</value>
+      <webElementGuid>12d56a97-56cf-47cc-83d7-b124ceaeea4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

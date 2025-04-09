@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>upload_surat_referensi_kerja</name>
+   <tag></tag>
+   <elementGuidId>33007e8a-4754-4157-80a7-4c8914ad9a95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;referensi_kerja&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c02da09f-5e31-455b-b165-cac4f3037511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center gap-3 custom-upload</value>
+      <webElementGuid>1d22df3c-f47a-4d80-ac37-5792c38359d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unggah</value>
+      <webElementGuid>a55e6b7b-978a-4380-bb34-6c560a0d3285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;form-section&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-12&quot;]/div[@class=&quot;d-flex justify-content-between form-upload&quot;]/div[@class=&quot;d-flex align-items-center gap-3 custom-upload&quot;]</value>
+      <webElementGuid>32887662-50c1-421e-bc97-bd69040fe03b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[3]/form/div[5]/div/div/div[2]</value>
+      <webElementGuid>5f020ac5-4c4a-4475-a174-1d55fecf109f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(.pdf)'])[4]/following::div[1]</value>
+      <webElementGuid>7b793b2b-6023-4974-878c-9081021d0122</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebelumnya'])[1]/preceding::div[2]</value>
+      <webElementGuid>028ede4b-3fd3-43a2-b0f4-66b8dc67fdcd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]</value>
+      <webElementGuid>15e6fbae-f337-433e-81d0-1cf2dad02d95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Unggah' or . = 'Unggah')]</value>
+      <webElementGuid>7f51215d-d5a0-4f7e-9891-13abcf5c89f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

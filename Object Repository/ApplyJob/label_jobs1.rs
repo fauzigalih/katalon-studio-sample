@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_jobs1</name>
+   <tag></tag>
+   <elementGuidId>81464ab3-7858-4aad-83b4-b9621ca94b16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='list']/div/div/div/div/a/h5</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.m-0.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>be51aafc-cb3d-4ffd-8900-d3533c485e26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0 title</value>
+      <webElementGuid>ceee1dab-4817-4727-9463-a6a508cf3657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Magang Bisnis Indonesia</value>
+      <webElementGuid>59fb7e9b-9954-400b-a2ff-67fc0030aec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;list&quot;)/div[@class=&quot;mobile-dis-none&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-12&quot;]/div[@class=&quot;position-relative job-card&quot;]/a[1]/h5[@class=&quot;m-0 title&quot;]</value>
+      <webElementGuid>e00d43e4-884e-40b3-8804-012a42ed8e7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='list']/div/div/div/div/a/h5</value>
+      <webElementGuid>04594e2b-a20f-4327-bd43-efd21afbbcef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Lainnya'])[4]/following::h5[1]</value>
+      <webElementGuid>09dd15fe-cc45-4e3f-a435-4bf18ade8816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Management'])[1]/following::h5[1]</value>
+      <webElementGuid>44d102ac-9ed7-4004-b628-0af842e82ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video Editor'])[1]/preceding::h5[1]</value>
+      <webElementGuid>b188fdaa-aa00-471c-8657-9c5a07b5afc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IT System Anlyst'])[1]/preceding::h5[2]</value>
+      <webElementGuid>dd6637c9-c0b9-452c-980f-7e1a7de7eea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Magang Bisnis Indonesia']/parent::*</value>
+      <webElementGuid>f5ee8904-214b-4408-8a79-09da924085da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>b6c6ca7e-0dc8-4e92-91a2-12ce458c6542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Magang Bisnis Indonesia' or . = 'Magang Bisnis Indonesia')]</value>
+      <webElementGuid>1e627c72-4a83-4aab-a28d-1c1329b561b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

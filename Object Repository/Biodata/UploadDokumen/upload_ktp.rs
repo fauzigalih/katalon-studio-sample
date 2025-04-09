@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>upload_ktp</name>
+   <tag></tag>
+   <elementGuidId>aec69b36-369b-48b3-97d9-f104a1be9d62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ktp&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.align-items-center.gap-3.custom-upload</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>025911c1-275f-4be2-95ab-52b016fcf302</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center gap-3 custom-upload</value>
+      <webElementGuid>5d6bdb54-c35b-4908-9333-f8c782ddf0ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unggah</value>
+      <webElementGuid>7a3e2de3-bfb8-4db6-8b9e-f6066c1eeb3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;form-section&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-12&quot;]/div[@class=&quot;d-flex justify-content-between form-upload undefined&quot;]/div[@class=&quot;d-flex align-items-center gap-3 custom-upload&quot;]</value>
+      <webElementGuid>aeb12d4f-aacc-42b9-94fd-98f2e1bb7a04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[3]/form/div/div/div/div[2]</value>
+      <webElementGuid>816ee223-fb9b-4aff-a01e-cc5d20627ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(.jpg, .jpeg, .png)'])[1]/following::div[1]</value>
+      <webElementGuid>c892b4b6-13bb-4c1a-8829-ad860687d922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div/div[2]</value>
+      <webElementGuid>d1cd30b4-4dc0-4259-80d9-9c1a8e22e064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Unggah' or . = 'Unggah')]</value>
+      <webElementGuid>81e8d488-3cc5-4c18-aaf6-dbbd889776c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

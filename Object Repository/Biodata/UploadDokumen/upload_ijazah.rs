@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>upload_ijazah</name>
+   <tag></tag>
+   <elementGuidId>2501cb89-443b-411d-87bf-60b95fd2cc17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;ijazah&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>526be6ff-944a-4483-957e-096e621090aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>d-flex align-items-center gap-3 custom-upload</value>
+      <webElementGuid>58bbd1f9-110a-4add-9d25-0a6703b776d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unggah</value>
+      <webElementGuid>b49f4f7d-d15c-436d-bf10-f1af77e3cc2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;form-section&quot;]/form[@class=&quot;form&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;form-group col-12&quot;]/div[@class=&quot;d-flex justify-content-between form-upload undefined&quot;]/div[@class=&quot;d-flex align-items-center gap-3 custom-upload&quot;]</value>
+      <webElementGuid>5077388a-a778-49a9-9dc7-8fb7408020bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[3]/form/div[3]/div/div/div[2]</value>
+      <webElementGuid>96520cc0-e9a4-4222-9e97-afc8f6936477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(.pdf)'])[2]/following::div[1]</value>
+      <webElementGuid>f96f5180-f993-4a84-8d3b-8966e53c52e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]</value>
+      <webElementGuid>084fe326-f966-47d1-9a6d-7c9a28079235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Unggah' or . = 'Unggah')]</value>
+      <webElementGuid>6e2a3bbb-70de-422e-86be-92ec4f10e39f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

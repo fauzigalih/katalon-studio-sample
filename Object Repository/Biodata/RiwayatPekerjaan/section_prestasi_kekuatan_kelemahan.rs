@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>section_prestasi_kekuatan_kelemahan</name>
+   <tag></tag>
+   <elementGuidId>bd5be5e6-53d6-4dd6-b868-266d4f6bf271</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section[3]/form/hr[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>hr:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>hr</value>
+      <webElementGuid>20ff0ab3-453d-4cac-bca9-e21f3adf2277</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;form-section&quot;]/form[@class=&quot;form color-custom&quot;]/hr[2]</value>
+      <webElementGuid>51acb92c-d851-43ee-a13a-befdbb8de2e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[3]/form/hr[2]</value>
+      <webElementGuid>4f904ab7-457b-43c2-b3c9-0f21d6266472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//hr[2]</value>
+      <webElementGuid>262440bc-061e-42d7-a550-cd08a7dc48f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_kembali_ke_halaman_utama</name>
+   <tag></tag>
+   <elementGuidId>8b92efe3-fd0a-4d87-8213-eddff8afa8c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type = 'button' and (text() = 'Kembali ke Halaman Utama' or . = 'Kembali ke Halaman Utama')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.swal2-confirm.swal2-styled</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9f25f396-2261-4ec5-a35a-9b2177a15ecb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b6e28009-50cb-4525-9bed-1c468f81fa7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-confirm swal2-styled</value>
+      <webElementGuid>b6eb6526-c688-442c-ab39-a64df2077307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kembali ke Halaman Utama</value>
+      <webElementGuid>f0664fd7-c9b6-45ed-a9b6-2abb77eec75b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-confirm swal2-styled&quot;]</value>
+      <webElementGuid>662fb0a6-2f82-4987-ae1e-b9ddbd14e5e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>eb6f1247-04b3-4960-b165-6f01bf701588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Berhasil Diperbarui'])[1]/following::button[1]</value>
+      <webElementGuid>96b30507-bca7-4ab8-88c3-c64f44a69088</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::button[1]</value>
+      <webElementGuid>85debbb9-bcb1-4242-b49c-fdbda9c141fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
+      <webElementGuid>40cab332-448f-4c42-b4c6-9b14ad9435d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::button[2]</value>
+      <webElementGuid>12d5079d-ad5e-415f-8aaa-0c5934c1b097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kembali ke Halaman Utama']/parent::*</value>
+      <webElementGuid>a57d1f35-a7fa-426f-8510-2fc97e00a30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/button</value>
+      <webElementGuid>07a1c36d-f09c-4867-b132-2ce27db09efc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Kembali ke Halaman Utama' or . = 'Kembali ke Halaman Utama')]</value>
+      <webElementGuid>f3886868-525b-4319-a794-8d547f177a5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

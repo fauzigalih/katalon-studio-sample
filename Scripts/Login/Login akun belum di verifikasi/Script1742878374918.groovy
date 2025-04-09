@@ -25,7 +25,7 @@ WebUI.setText(findTestObject('Object Repository/Login/input_email'), GlobalVaria
 
 WebUI.click(findTestObject('Object Repository/Login/show_password'))
 
-WebUI.setText(findTestObject('Object Repository/Login/input_password'), GlobalVariable.password)
+WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_password'), GlobalVariable.password)
 
 WebUI.click(findTestObject('Object Repository/Login/btn_login'))
 

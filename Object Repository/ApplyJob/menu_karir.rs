@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_selanjutnya_pendidikan</name>
+   <name>menu_karir</name>
    <tag></tag>
-   <elementGuidId>9354244d-712c-484b-9c08-dbb258e24c88</elementGuidId>
+   <elementGuidId>73f6d3af-6dfc-4e7b-955b-9ecbedea43ea</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@type = 'button' and (text() = 'Selanjutnya' or . = 'Selanjutnya')]</value>
+         <value>//div[@id='offcanvasNavbar-expand-sm']/div[2]/div[2]/a[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn-next</value>
+         <value>a.d-flex.align-items-center.mx-1.text-navbar</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,111 +22,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>ebcf5720-f93c-4bbd-b683-e853013044be</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>button</value>
-      <webElementGuid>d2c89173-5294-4915-a78f-f24362a9d7a0</webElementGuid>
+      <value>a</value>
+      <webElementGuid>08f1f534-4bfc-41e5-a0f9-9cee00fbd35c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn-next</value>
-      <webElementGuid>6150da95-aa67-4f2c-9b96-8afd16a8210f</webElementGuid>
+      <value>d-flex align-items-center mx-1 text-navbar</value>
+      <webElementGuid>1b6ea703-159e-499f-8746-e08d302fe82c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Selanjutnya</value>
-      <webElementGuid>479fad13-f70d-483c-b8d2-7ffe0ac6e205</webElementGuid>
+      <value>Karier</value>
+      <webElementGuid>c5340cab-42c0-4fe7-b206-ca09e25ddb9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/div[@class=&quot;d-flex justify-content-between&quot;]/button[@class=&quot;btn-next&quot;]</value>
-      <webElementGuid>ec076e6a-7f30-4097-bee0-899f59e1fab1</webElementGuid>
+      <value>id(&quot;__next&quot;)/nav[@class=&quot;navbar-theme navbar navbar-expand-sm navbar-light&quot;]/div[@class=&quot;container&quot;]/div[@id=&quot;offcanvasNavbar-expand-sm&quot;]/div[@class=&quot;offcanvas-body&quot;]/div[@class=&quot;justify-content-center align-items-center flex-grow-1 pe-3 navbar-nav&quot;]/a[@class=&quot;d-flex align-items-center mx-1 text-navbar&quot;]</value>
+      <webElementGuid>4f8239a4-c800-43c4-ae92-d44c9e873378</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
-      <type>Main</type>
-      <value>(//button[@type='button'])[6]</value>
-      <webElementGuid>816543d2-a3fa-456d-adc2-598df2ca3753</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__next']/div/div[2]/button</value>
-      <webElementGuid>44142b34-efa5-4edb-80b6-f10373976df1</webElementGuid>
+      <value>//div[@id='offcanvasNavbar-expand-sm']/div[2]/div[2]/a[2]</value>
+      <webElementGuid>c7eb634e-2546-43e5-a8c8-3993b09adae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Karier')]</value>
+      <webElementGuid>a59f43dd-44dc-4345-8fb0-38a3cf2142b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sebelumnya'])[1]/following::button[1]</value>
-      <webElementGuid>abc47ba9-9f0e-477f-a1f0-10b4b207a22a</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[1]/following::a[1]</value>
+      <webElementGuid>5c958107-05e9-4004-a696-a5a6d48e876d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::button[2]</value>
-      <webElementGuid>f44323f4-03fe-40a5-95f3-8cb177fcb6e5</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Desktop 3'])[1]/following::a[2]</value>
+      <webElementGuid>efc176ee-d4f9-4aee-8a07-a2b031d57178</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[2]/preceding::button[1]</value>
-      <webElementGuid>ce7da473-4491-48d1-b31c-e9ffa0e31f5d</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aplikasi'])[1]/preceding::a[1]</value>
+      <webElementGuid>6b82fe33-4d82-4829-ae6b-0cbec58e9898</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karier'])[2]/preceding::button[1]</value>
-      <webElementGuid>76756ade-3975-477c-8569-f12ab491d483</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang Kami'])[1]/preceding::a[2]</value>
+      <webElementGuid>5b3c4e85-fc0e-4696-a7f6-9e508aa898b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Selanjutnya']/parent::*</value>
-      <webElementGuid>335ba38b-0fb8-4d9c-9052-41946b37537a</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Karier']/parent::*</value>
+      <webElementGuid>a86956f5-53ca-4061-acc0-8c8f5a84118c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/button</value>
-      <webElementGuid>32480931-d3fa-4f59-9964-f06fea04ab34</webElementGuid>
+      <value>//a[2]</value>
+      <webElementGuid>8e35f6a2-e0ba-467d-aca8-565d8f3b24c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Selanjutnya' or . = 'Selanjutnya')]</value>
-      <webElementGuid>9bfa38ae-afdc-4d02-9a67-1b94cb2c4596</webElementGuid>
+      <value>//a[(text() = 'Karier' or . = 'Karier')]</value>
+      <webElementGuid>2a0af672-3bf1-4fe8-a946-843bcb9a841c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

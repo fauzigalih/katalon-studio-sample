@@ -31,6 +31,6 @@ WebUI.setText(findTestObject('Object Repository/Login/input_password'), GlobalVa
 
 WebUI.click(findTestObject('Object Repository/Login/btn_login'))
 
-WebUI.verifyElementText(findTestObject('Login/modal_login_email_tidak_terdaftar'), 'Sorry, Email tidak terdaftar')
+WebUI.verifyElementText(findTestObject('Login/modal_login_email_tidak_terdaftar'), 'Sorry, Email tidak terdaftar1')
 
 WebUI.closeBrowser()

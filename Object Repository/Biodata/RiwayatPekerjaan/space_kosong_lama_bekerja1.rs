@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>space_kosong_lama_bekerja1</name>
+   <tag></tag>
+   <elementGuidId>34cdba38-842d-4a29-a93a-f4b8a290aba8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section[3]/form/div[2]/div[4]/div[2]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.padding-custom.col-sm-1.col-1</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f77b9f10-a7dd-44ef-bd5c-19d22b75a4f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>padding-custom col-sm-1 col-1</value>
+      <webElementGuid>b6fe6fbe-e66a-4af1-a5d5-626c0b7ce4a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;form-section&quot;]/form[@class=&quot;form color-custom&quot;]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-12&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;padding-custom col-sm-1 col-1&quot;]</value>
+      <webElementGuid>693e7c73-050a-47b6-a9ac-c10e1fd103c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[3]/form/div[2]/div[4]/div[2]/div/div/div[2]</value>
+      <webElementGuid>e7662dcc-3496-4623-b063-aa988e317991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]</value>
+      <webElementGuid>dc5f816e-0183-4c62-8995-b84894216c5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

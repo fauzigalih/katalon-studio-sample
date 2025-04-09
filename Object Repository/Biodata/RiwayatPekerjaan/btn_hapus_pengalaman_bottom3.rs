@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_hapus_pengalaman_bottom3</name>
+   <tag></tag>
+   <elementGuidId>fa511547-fc65-45d2-85a9-ef636654376e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section[3]/form/div[5]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.btn.btn-warning.fa-solid.fa-minus.p-1.icon-min</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fa53fa36-c956-4826-9130-0a189901443b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-warning fa-solid fa-minus p-1 icon-min</value>
+      <webElementGuid>4bec5b7d-6c15-4bf4-a56a-af575575b4b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;form-section&quot;]/form[@class=&quot;form color-custom&quot;]/div[@class=&quot;form-group text-center mar-cus&quot;]/i[@class=&quot;btn btn-warning fa-solid fa-minus p-1 icon-min&quot;]</value>
+      <webElementGuid>4db9a78c-e4c4-4bba-ab16-c9aa9b452f1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[3]/form/div[5]/i</value>
+      <webElementGuid>b1f93028-0637-476c-876f-1bc122c9785c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>9faad827-af5a-4e01-9d05-b41d18c75c6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

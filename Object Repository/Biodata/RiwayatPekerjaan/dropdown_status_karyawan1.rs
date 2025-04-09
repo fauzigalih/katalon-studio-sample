@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_status_karyawan1</name>
+   <tag></tag>
+   <elementGuidId>8cbe3754-9788-4459-9e3d-bb118be7050a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='status_karyawan']/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-19bb58m</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>25bb4082-5a0b-484d-a183-fa933d39f8fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-19bb58m</value>
+      <webElementGuid>c22c5f22-e852-4295-8f35-df89eb069273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;status_karyawan&quot;)/div[@class=&quot;css-t3ipsp-control&quot;]/div[@class=&quot;css-hlgwow&quot;]/div[@class=&quot;css-19bb58m&quot;]</value>
+      <webElementGuid>68045777-bee4-4962-a5aa-97ab4aa484b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='status_karyawan']/div/div/div[2]</value>
+      <webElementGuid>cc46509f-194a-447e-b2e9-943521835b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Status Karyawan...'])[1]/following::div[1]</value>
+      <webElementGuid>e560a4fc-b175-4751-b142-2317c073ed83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::div[5]</value>
+      <webElementGuid>7ce85682-d986-48d6-96af-04282a48e152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak'])[1]/preceding::div[3]</value>
+      <webElementGuid>aa0c9b13-3d18-4af9-a9e0-2b65ae613d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tetap'])[1]/preceding::div[4]</value>
+      <webElementGuid>b2e715e9-6fc3-4715-bda8-857ce464c1eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>145f912d-df75-4a32-b89d-46e75263e517</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

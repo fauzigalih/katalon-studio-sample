@@ -17,18 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CustomKeywords.'client.Auth.openBrowser'()
-
-WebUI.click(findTestObject('Object Repository/Login/link_login'))
-
-WebUI.setText(findTestObject('Object Repository/Login/input_email'), GlobalVariable.email)
-
-WebUI.click(findTestObject('Object Repository/Login/show_password'))
-
-WebUI.setText(findTestObject('Object Repository/Login/input_password'), GlobalVariable.password)
-
-WebUI.click(findTestObject('Object Repository/Login/btn_login'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Login/fullname'), 'Testing Desktop 3')
+CustomKeywords.'client.Auth.loginApp'()
 
 WebUI.closeBrowser()

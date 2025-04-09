@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_upload_dokumen</name>
+   <tag></tag>
+   <elementGuidId>90a1c955-e15c-4e10-829b-e08829b54e84</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section[2]/div/div/div[6]/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>48305505-71b5-4249-a589-67ba783e6cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0 text active</value>
+      <webElementGuid>45df2de6-3f06-49f7-9133-5d4eb76f9059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Dokumen</value>
+      <webElementGuid>019c0430-480c-4594-80b9-4fcdb543cd9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;progress-bar&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;flex-nowrap row&quot;]/div[@class=&quot;p-0 text-center width-custom col-auto&quot;]/div[@class=&quot;mobile-dis-none&quot;]/div[@class=&quot;description&quot;]/p[@class=&quot;m-0 text active&quot;]</value>
+      <webElementGuid>1687f82b-c46a-42c4-b279-8368c49d5e0c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section[2]/div/div/div[6]/div[2]/div/p</value>
+      <webElementGuid>64354ed4-1d88-4898-90cc-ddd449f94f38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit Profil'])[1]/following::p[6]</value>
+      <webElementGuid>e554ba34-dad8-4676-b0a9-5a164fcf5544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profil'])[1]/following::p[6]</value>
+      <webElementGuid>a29c2751-a918-4a10-b3ab-f3f7e917a169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload Dokumen']/parent::*</value>
+      <webElementGuid>a076e32f-307c-4648-881d-07822aa74ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[2]/div/p</value>
+      <webElementGuid>afe8bb4c-b84c-49a0-8513-986becf9779b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Upload Dokumen' or . = 'Upload Dokumen')]</value>
+      <webElementGuid>e554be96-17c4-4fc3-b5a6-9b1975c1c3d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

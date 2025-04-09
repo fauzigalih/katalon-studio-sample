@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal_tunjangan_fasilitas_berhasil</name>
+   <tag></tag>
+   <elementGuidId>35b3d21e-9744-4357-86a2-dc918cddfd30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id = 'swal2-title' and (text() = 'Data Berhasil Diperbarui' or . = 'Data Berhasil Diperbarui')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#swal2-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b34831bd-522a-439e-8bfd-a3793c573260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>d4f69c7c-5ed7-4b93-b82f-01c3bcd84cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>94ede821-5412-48d7-a2ad-505f93550255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Berhasil Diperbarui</value>
+      <webElementGuid>6799d44f-44fe-4d31-83b1-3e6653b44e74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swal2-title&quot;)</value>
+      <webElementGuid>9c85f138-6cd7-4db5-a915-c9e94c6f6a2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='swal2-title']</value>
+      <webElementGuid>56f81cdd-731e-459f-ba38-f9eb023c6af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::h2[1]</value>
+      <webElementGuid>89dacac9-f807-46dd-a6f2-cf641deaf151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kembali ke Halaman Utama'])[1]/preceding::h2[1]</value>
+      <webElementGuid>58226737-578b-490b-95be-5ec45d2df4e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::h2[1]</value>
+      <webElementGuid>43bfafba-4a3d-4bb6-9de4-29139f4f9d05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Data Berhasil Diperbarui']/parent::*</value>
+      <webElementGuid>24a29f61-4a3b-47de-8f23-4248f349e7f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>7176cd80-51cf-4a2a-861e-6c1ade1c772c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'swal2-title' and (text() = 'Data Berhasil Diperbarui' or . = 'Data Berhasil Diperbarui')]</value>
+      <webElementGuid>d14d9a69-67a8-4db2-ae6d-b45df9384a57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

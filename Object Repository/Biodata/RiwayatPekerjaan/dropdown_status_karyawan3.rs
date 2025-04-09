@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_status_karyawan3</name>
+   <tag></tag>
+   <elementGuidId>c6a2a882-dfd7-4741-a611-a837d206ca5f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='status_karyawan']/div/div/div[2])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-t3ipsp-control > div.css-hlgwow > div.css-19bb58m</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>086724c2-2717-40ae-be0b-4b316cba48a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-19bb58m</value>
+      <webElementGuid>9dc4c560-5757-4c56-8b7f-180610835093</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;edit-profile container&quot;]/section[@class=&quot;form-section&quot;]/form[@class=&quot;form color-custom&quot;]/div[4]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-6 col-12&quot;]/div[@class=&quot;form-group&quot;]/div[@id=&quot;status_karyawan&quot;]/div[@class=&quot;css-t3ipsp-control&quot;]/div[@class=&quot;css-hlgwow&quot;]/div[@class=&quot;css-19bb58m&quot;]</value>
+      <webElementGuid>419f3d81-7368-446f-b73b-d3991d6cd888</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='status_karyawan']/div/div/div[2])[3]</value>
+      <webElementGuid>68a90c8e-82e4-41df-a427-823c4f9c9e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Status Karyawan...'])[3]/following::div[1]</value>
+      <webElementGuid>c76c6fad-8ef2-4c3f-ba3c-32f5adbee4bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[23]/following::div[5]</value>
+      <webElementGuid>bea6b0b3-4292-48ac-9f15-947013613bae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak'])[1]/preceding::div[3]</value>
+      <webElementGuid>2e1d7380-c263-45b2-bf3f-6e74235c4d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tetap'])[1]/preceding::div[4]</value>
+      <webElementGuid>90d90cf5-a637-4e8c-8a4b-248a2b9f5db0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div/div/div/div/div/div[2]</value>
+      <webElementGuid>21d421e0-f9e3-4272-85a8-f870217bd1ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

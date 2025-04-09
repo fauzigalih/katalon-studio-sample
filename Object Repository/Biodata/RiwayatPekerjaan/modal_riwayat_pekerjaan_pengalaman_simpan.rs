@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>modal_riwayat_pekerjaan_pengalaman_simpan</name>
+   <tag></tag>
+   <elementGuidId>549e65f6-854a-4a9b-9f78-bf3a70a4b5c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id = 'swal2-title' and (text() = 'Data Berhasil Dibuat' or . = 'Data Berhasil Dibuat')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#swal2-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>9a6ad8f3-a3e8-4fe0-b97d-332ef0190970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>5a42448c-e243-4db0-ae53-e61f546b7139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>3c47338e-1115-4938-be82-6d5c7a05d40b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data Berhasil Dibuat</value>
+      <webElementGuid>bab1e501-ec5a-4b36-a464-85730d023c7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swal2-title&quot;)</value>
+      <webElementGuid>7e938a1d-1722-4049-94e2-11b057a8d173</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='swal2-title']</value>
+      <webElementGuid>e69162e0-40ed-474b-8eb4-61a2e6f534e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::h2[1]</value>
+      <webElementGuid>07f9d7da-65db-497a-9bc7-7ba07449c75d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Silakan periksa kembali data pengalaman kerja yang dibuat.'])[1]/preceding::h2[1]</value>
+      <webElementGuid>abf82c91-de44-459c-bd3e-8fb36fc4d4f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::h2[1]</value>
+      <webElementGuid>7e45be17-bb99-4da2-8ba0-84d29ac10c70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Data Berhasil Dibuat']/parent::*</value>
+      <webElementGuid>7b382735-7c8c-4343-93d8-a649723d7516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>29fdf580-a265-408b-b390-86ce0768c4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'swal2-title' and (text() = 'Data Berhasil Dibuat' or . = 'Data Berhasil Dibuat')]</value>
+      <webElementGuid>5edc6661-4659-4a7c-b03f-fa51d1f48e8b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
