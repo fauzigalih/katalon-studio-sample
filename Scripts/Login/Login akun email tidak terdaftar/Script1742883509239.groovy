@@ -27,10 +27,10 @@ WebUI.delay(GlobalVariable.delay)
 
 WebUI.click(findTestObject('Object Repository/Login/show_password'))
 
-WebUI.setText(findTestObject('Object Repository/Login/input_password'), GlobalVariable.password)
+WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_password'), GlobalVariable.password)
 
 WebUI.click(findTestObject('Object Repository/Login/btn_login'))
 
-WebUI.verifyElementText(findTestObject('Login/modal_login_email_tidak_terdaftar'), 'Sorry, Email tidak terdaftar1')
+WebUI.verifyElementText(findTestObject('Login/modal_login_email_tidak_terdaftar'), 'Sorry, Email tidak terdaftar')
 
 WebUI.closeBrowser()
