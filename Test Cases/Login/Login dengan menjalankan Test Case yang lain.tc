@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Email</name>
+   <name>Login dengan menjalankan Test Case yang lain</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>49ff083b-e07e-4202-b797-4fa445752c38</testCaseGuid>
+   <testCaseGuid>7460ff4a-e83d-4029-b011-d8df6e16d933</testCaseGuid>
 </TestCaseEntity>

@@ -27,22 +27,24 @@ public class Auth {
 	def static void openBrowser(){
 		WebUI.openBrowser(GlobalVariable.applicationURL)
 		WebUI.waitForPageLoad(GlobalVariable.delayLong)
-		WebUI.maximizeWindow()
+		//		WebUI.maximizeWindow()
+		WebUI.setViewPortSize(1920, 1080)
 	}
 
 	@Keyword
-	def static void loginApp(){
+	def static void loginApp(String email = GlobalVariable.email, String password = GlobalVariable.password){
 		openBrowser()
+		//		WebUI.takeScreenshot()
 		WebUI.click(findTestObject('Object Repository/Login/link_login'))
-		WebUI.setText(findTestObject('Object Repository/Login/input_email'), GlobalVariable.email)
+		WebUI.setText(findTestObject('Object Repository/Login/input_email'), email)
 		WebUI.click(findTestObject('Object Repository/Login/show_password'))
-		WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_password'), GlobalVariable.password)  // pwd: Testingdesktop3!
+		WebUI.setEncryptedText(findTestObject('Object Repository/Login/input_password'), password)  // pwd: Testingdesktop3!
 		WebUI.click(findTestObject('Object Repository/Login/btn_login'))
 		WebUI.verifyElementText(findTestObject('Object Repository/Login/fullname'), 'Testing Desktop 3')
 	}
 
 	@Keyword
-	public String getEmail(String suffix,String prefix){
+	public String getEmail(String suffix, String prefix){
 		int randomNo = (int)(Math.random() * 1000);
 		return suffix + randomNo + "@" + prefix;
 	}

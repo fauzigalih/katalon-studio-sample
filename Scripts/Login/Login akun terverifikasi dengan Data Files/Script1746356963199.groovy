@@ -17,14 +17,6 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-import com.kms.katalon.core.mail.EmailFactory
-import com.kms.katalon.core.mail.EmailMessage
+CustomKeywords.'client.Auth.loginApp'(email, password)
 
-EmailMessage email = new EmailMessage()
-email.setSubject('Katalon Summary Report')
-email.setBody('This is a test email sent from Katalon Studio')
-email.setToAddresses(['fauzigalihas@gmail.com']) // Ganti dengan alamat email yang sesuai
-email.setFrom('fauzigalihas@gmail.com')
-
-// Kirim email
-EmailFactory.getInstance().sendEmail(email)
+WebUI.closeBrowser()

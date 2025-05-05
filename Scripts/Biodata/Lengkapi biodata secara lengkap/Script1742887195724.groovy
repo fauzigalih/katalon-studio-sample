@@ -28,7 +28,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Biodata/PersonalData/l
 
 WebUI.setText(findTestObject('Object Repository/Biodata/PersonalData/input_nama'), GlobalVariable.nama)
 
-WebUI.setText(findTestObject('Object Repository/Biodata/PersonalData/input_no_ktp'), GlobalVariable.no_ktp)
+WebUI.setText(findTestObject('Object Repository/Biodata/PersonalData/input_no_ktp'), no_ktp)
 
 WebUI.setText(findTestObject('Object Repository/Biodata/PersonalData/input_nama_panggilan'), GlobalVariable.nama)
 
@@ -36,7 +36,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/Biodata/PersonalData/r
 WebUI.verifyElementText(findTestObject('Object Repository/Biodata/PersonalData/radio_perempuan'), 'Perempuan')
 WebUI.click(findTestObject('Object Repository/Biodata/PersonalData/radio_laki'))
 
-WebUI.setText(findTestObject('Object Repository/Biodata/PersonalData/input_alamat_domisili'), GlobalVariable.alamat_domisili)
+WebUI.setText(findTestObject('Object Repository/Biodata/PersonalData/input_alamat_domisili'), alamat_domisili)
 
 WebUI.click(findTestObject('Object Repository/Biodata/PersonalData/dropdown_domisili'))
 WebUI.click(findTestObject('Object Repository/Biodata/PersonalData/value_dropdown_kota_domisili_ke2'))
